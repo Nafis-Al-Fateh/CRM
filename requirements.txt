@@ -1,1 +1,8 @@
 streamlit
+supabase
+supabase-py
+psycopg2-binary
+pandas
+plotly
+requests
+python-dotenv
